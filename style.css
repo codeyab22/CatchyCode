@@ -67,7 +67,7 @@ h3 {
 
 #navbar-links a {
   line-height: 0px;
-  color: rgb(199, 120, 120);
+  color: rgb(150, 83, 83);
   text-decoration: none;
   border-left: 1px solid #efefef;
   margin-top: 30px;
@@ -95,7 +95,7 @@ h3 {
 
 .sidebar {
   padding: 0px 30px 30px 30px;
-  background: rgb(253, 163, 163);
+  background: rgb(233, 217, 217);
   border: 1px solid #ddd;
   margin-bottom: 30px;
 }
