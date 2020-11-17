@@ -1,6 +1,6 @@
 # CatchyCode
 
-This is my portfolio that I created for this second project. The purpose is to make a responsive layout, pages, and understanding about media queries.
+This is my portfolio that I created for this second project. The purpose is to know what a bootstrapped portfolio does, how make a responsive layout, executing github pages and understanding about media queries.
 Building a navbar and grid system for my website, it helps to me to create my portfolio in different formats.  
 
 My motivation was to market myself and know who's my audience. Another motivation is to make a visual design that is pretty and understandable. 
