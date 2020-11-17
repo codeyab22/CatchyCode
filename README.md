@@ -6,5 +6,5 @@ Building a navbar and grid system for my website, it helps to me to create my po
 My motivation was to market myself and know who's my audience. Another motivation is to make a visual design that is pretty and understandable. 
 Making a website is a reward and something that allows me to think about animation.  
 
-This is my the version of my website. Check it out: https://codeyab22.github.io/CatchyCode/.
+This is my website. Check it out: https://codeyab22.github.io/CatchyCode/.
 
