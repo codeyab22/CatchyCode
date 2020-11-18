@@ -14,4 +14,4 @@ Sizing
 
 This is my website. Check it out: https://codeyab22.github.io/CatchyCode/.
 
-![image] (codeyab22.github.io_CatchyCode_.jpg)
+![image](codeyab22.github.io_CatchyCode_.jpg)
