@@ -8,7 +8,7 @@ Making a website is a reward and something that allows me to think about animati
 
 Problem(s) it solve:
 grammatical errors
-Screening/format issues
+Screening/Formatting issues
 Sizing 
 
 
