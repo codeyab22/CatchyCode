@@ -10,6 +10,6 @@ Making a website is a reward and something that allows me to think about animati
 Problem(s) it solve: Grammatical/Sytnax errors, Screening/Formatting issues, Sizing 
 
 What I learn: To know how to put a sticky footer and semantic elements in CSS and HTML files properly 
-This is my website. Check it out: https://codeyab22.github.io/CatchyCode/.
+This is my website. Check it out: https://codeyab22.github.io/CatchyCode-Responsive-Portfolio/.
 
 ![image](codeyab22.github.io_CatchyCode_.jpg)
